@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328054485889",
+    "project_id": "minggu07-d84ba",
+    "storage_bucket": "minggu07-d84ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328054485889:android:ea9917404029dc0683ee80",
+        "android_client_info": {
+          "package_name": "com.example.minggu7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrddvpUDLeocvmMq6uz0cWdR1gIozwOkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
